@@ -1,0 +1,48 @@
+.weather-image{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.weather-image img{
+    width: 250px;
+    height: 145px;
+}
+
+.weather-temp{
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-size: 20px;
+}
+
+.weather-location{
+    display: flex;
+    justify-content: center;
+    color: white;
+    font-size: 20px; 
+}
+
+.data-container{
+    margin-top: 50px;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+
+.element{
+    margin: auto;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.icon{
+    margin-top: 10px;
+    width: 70px;
+    height: 70px;
+}
+
+.text{
+    font-size: 20px;
+}
