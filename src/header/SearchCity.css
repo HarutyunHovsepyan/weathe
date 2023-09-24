@@ -35,3 +35,12 @@
     height: 80px;
     cursor: pointer;
 }
+
+.error-message{
+    color: white;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 23px;
+}
